@@ -1,8 +1,12 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+#content {
+    width: 220px;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid #ccc;
+    box-shadow: 0 3px 4px #ccc;
+    padding: 5px;
 }
 
-a {
-  color: #00B7FF;
+img {
+    width: 100%;
 }
